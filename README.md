@@ -1,5 +1,3 @@
-# customer-churn-predictions
-End-to-end customer churn prediction using data analysis and machine learning
 # Customer Churn Prediction
 
 ## Overview
@@ -29,11 +27,5 @@ It includes data cleaning, exploratory data analysis, feature engineering, and m
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## How to Run
-1. Clone the repository
-2. Install requirements
-3. Run the notebook
 
-## Author
-Sathwik
 
